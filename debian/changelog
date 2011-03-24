@@ -1,3 +1,9 @@
+python-django-sentry (1.5.1-0sg0) lucid; urgency=low
+
+  * Added a source/format file with 3.0 (quilt)
+
+ -- Casey Crites <crites.casey@gmail.com>  Thu, 24 Mar 2011 14:37:00 -0800
+
 python-django-sentry (1.5.1-0) testing; urgency=high
 
   * Initial Debian package
