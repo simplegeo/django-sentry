@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: David Cramer <dcramer@gmail.com>
 Homepage: https://github.com/dcramer/django-sentry
 Bugs: https://github.com/dcramer/sentry/issues
-Build-Depends: debhelper, python-support
+Build-Depends: debhelper, python-support, python-setuptools
 
 Package: python-django-sentry
 Architecture: all
