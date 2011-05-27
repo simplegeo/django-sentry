@@ -4,7 +4,7 @@
 #export DH_VERBOSE=1
 
 clean:
-	dh_testdir
+  # dh_testdir
 	dh_testroot
 	
 	rm -rf build django-sentry.egg-info   
@@ -13,12 +13,12 @@ clean:
 	dh_clean
 
 build: 
-	dh_testdir
+  # dh_testdir
 
 	python setup.py build
 
 install:
-	dh_testdir
+  # dh_testdir
 	dh_installdirs
 
 	python setup.py install --root $(CURDIR)/debian/python-django-sentry
