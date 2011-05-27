@@ -1,3 +1,9 @@
+python-django-sentry (1.8.5-0sg16) lucid; urgency=low
+
+  * UNRELEASED
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 27 May 2011 20:27:37 +0000
+
 python-django-sentry (1.8.5-0sg15) lucid; urgency=low
 
   [ Jon Rohan ]
