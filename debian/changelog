@@ -1,3 +1,12 @@
+python-django-sentry (1.8.5-0sg15) lucid; urgency=low
+
+  [ Jon Rohan ]
+  * removing test dir lines
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 27 May 2011 20:22:19 +0000
+
 python-django-sentry (1.8.5-0sg14) lucid; urgency=low
 
   [ Jon Rohan ]
