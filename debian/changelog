@@ -1,3 +1,12 @@
+python-django-sentry (1.8.5-0sg17) lucid; urgency=low
+
+  [ Jon Rohan ]
+  * more tests stuff removed
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 27 May 2011 20:29:39 +0000
+
 python-django-sentry (1.8.5-0sg15) lucid; urgency=low
 
   [ Jon Rohan ]
