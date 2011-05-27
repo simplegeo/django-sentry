@@ -1,3 +1,12 @@
+python-django-sentry (1.8.5-0sg14) lucid; urgency=low
+
+  [ Jon Rohan ]
+  * delete the f**king tests directory
+
+  [ SimpleGeo Nerds ]
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 27 May 2011 20:12:39 +0000
+
 python-django-sentry (1.8.5-0sg13) lucid; urgency=low
 
   * UNRELEASED
